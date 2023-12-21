@@ -4,6 +4,7 @@ body {
     font: 'Raleway', sans-serif;
     height: 100vh;
     letter-spacing: .5em;
+    overflow: hidden;
     text-align: center;
     text-transform: uppercase;
     top: 15%;    
