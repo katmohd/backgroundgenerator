@@ -6,7 +6,7 @@ var button = document.querySelector("button");
 
 function setGradient() {
 	body.style.background = 
-	"linear-gradient(to right, " 
+	"linear-gradient(to bottom, " 
 	+ color1.value 
 	+ ", " 
 	+ color2.value 
